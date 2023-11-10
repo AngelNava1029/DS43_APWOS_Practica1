@@ -1,0 +1,36 @@
+.fondo{
+    background-color:  #bd0838;   
+}
+.fondo3{
+    background-color:  #c30e3e;   
+}
+.fondo2{
+    background-image: url(fondo2.png);
+    height: 500px;
+  
+}
+.fondonegro{
+    background-color: #000000;
+}
+.fondogris{
+    background-color: #f2eeee;
+    
+}
+.estilo{
+padding-top: 20px;
+padding-bottom: 10px;
+}
+.res {
+    border: 1px solid rgb(255, 0, 30); /* Personaliza el estilo del borde como desees */
+    padding: 1px; /* Añade relleno para mayor claridad */
+}
+.res2 {
+    border: 1px solid rgb(0, 0, 0); /* Personaliza el estilo del borde como desees */
+    padding: 1px; /* Añade relleno para mayor claridad */
+}
+.negras{
+    color: #000000;
+}
+.blancas{
+    color: #ffffff;
+}
